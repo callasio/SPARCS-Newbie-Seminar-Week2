@@ -1,16 +1,13 @@
 # namer_app
 
-A new Flutter project.
+플러터 세미나 과제입니다.
 
-## Getting Started
+## 결과
 
-This project is a starting point for a Flutter application.
+<img width="960" alt="스크린샷 2024-03-17 141100" src="https://github.com/callasio/SPARCS-Newbie-Seminar-Week2/assets/138088339/d4edce8e-cf04-401b-9f4f-a9ff7a5e6b39">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="960" alt="스크린샷 2024-03-17 141109" src="https://github.com/callasio/SPARCS-Newbie-Seminar-Week2/assets/138088339/fec912be-e5a5-4ad6-8b68-ddf33513d1d1">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="960" alt="스크린샷 2024-03-17 141127" src="https://github.com/callasio/SPARCS-Newbie-Seminar-Week2/assets/138088339/cc0d7c54-6518-4552-a0e1-efa73d36782d">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="343" alt="스크린샷 2024-03-17 141150" src="https://github.com/callasio/SPARCS-Newbie-Seminar-Week2/assets/138088339/09c57912-d5b4-4ce7-b9cd-68274ad552ac">
